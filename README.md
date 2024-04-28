@@ -1,10 +1,7 @@
-# Hi everyone :handshake: :clap:,
-# I'm Draco.
 
-https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif
 <h1 align="center">Hi everyone👋, I'm Draco Nguyen</h1>
 <h3 align="center">I'm software engineer</h3>
-
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FSupianIDz%2FSupianIDz&psig=AOvVaw0OvYfkMarWnWPtud3ZSkf1&ust=1714403161771000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjbitGX5YUDFQAAAAAdAAAAABAE
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nguyendacdat" alt="nguyendacdat" /></a> </p>
 
 - 🌱 I’m currently learning **React,NextJs,VueJs,ExpressJs,NodeJs,Java and Algorithm and Data Structure**
