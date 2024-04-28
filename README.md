@@ -1,7 +1,7 @@
 <h1 align="center">Hi everyone👋, I'm Draco Nguyen</h1>
 <h3 align="center">I'm software engineer</h3>
 
-- 🌱 I’m currently learning **React,Algorithm and Data Structure**
+- 🌱 I’m currently learning **Algorithm and Data Structure**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NguyenDacDat](https://github.com/NguyenDacDat)
 
