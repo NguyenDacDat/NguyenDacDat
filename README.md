@@ -5,11 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NguyenDacDat](https://github.com/NguyenDacDat)
 
-- 💬 Ask me about **React,Vue**
-
-- 📫 How to reach me **nguyendacdat010502@gmail.com**
-
-- ⚡ Fun fact **I think I am funny and handsome.**
+- 📫 How to reach me **nguyendacdat152@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
